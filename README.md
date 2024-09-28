@@ -1,1 +1,1 @@
-# eucalipto-iniciacao-cientifica
+# eucalipto-deteccao-de-objetos
